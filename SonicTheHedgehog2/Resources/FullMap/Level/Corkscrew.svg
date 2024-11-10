@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="11264"
+   height="1024"
+   viewBox="0 0 11264 1024"
+   sodipodi:docname="corkscrew.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.2162237"
+     inkscape:cx="9636.7966"
+     inkscape:cy="638.04054"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="79"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     inkscape:lockguides="false" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="11264"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="SonicTheHedgehog2-EmeraldHillZone-1.png"
+       id="image10"
+       inkscape:transform-center-x="55.951432"
+       inkscape:transform-center-y="-6.5825214" />
+    <path
+       style="fill:#000000"
+       d="m 9211.8687,702.26715 43.9453,-9.82529 41.8604,-14.53488 31.9768,-19.76744 35.4651,-19.18605 38.3721,-8.72093 38.9535,5.81395 34.8837,19.18605 30.814,20.93023 23.2558,15.69768 28.1478,6.83567 53.2475,-2.18451 36.6279,-7.55814 41.8605,-16.86047 34.3023,-16.86046 26.1628,-15.69767 36.0465,-6.97675 43.6047,10.46512 32.5581,24.4186 36.6279,17.44186 43.6047,10.46512 41.0382,8.32192"
+       id="path690"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+    <path
+       style="fill:#000000"
+       d="m 4604.8274,695.59574 33.7109,-5.34441 42.7553,-18.91099 36.1775,-17.26657 40.2887,-18.49988 36.1775,-8.63328 32.8887,5.34441 37.822,13.97769 33.2998,17.67767 36.9998,19.73321 57.5552,13.9777"
+       id="path692" />
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="11264"
+   height="1024"
+   viewBox="0 0 11264 1024"
+   sodipodi:docname="FlippedSpikeLocations.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.30405592"
+     inkscape:cx="1823.6777"
+     inkscape:cy="542.66334"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     inkscape:lockguides="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="11264"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="SonicTheHedgehog2-EmeraldHillZone-1.png"
+       id="image191"
+       inkscape:transform-center-x="55.951432"
+       inkscape:transform-center-y="-6.5825214"
+       x="0"
+       y="0" />
+    <image
+       width="11264"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="SonicTheHedgehog2-EmeraldHillZone-1.png"
+       id="image10"
+       inkscape:transform-center-x="55.951432"
+       inkscape:transform-center-y="-6.5825214" />
+    <path
+       style="fill:#000000"
+       d="m 2079.5058,703.92442 h 32.5582 l 527.6162,112.06395 48.1105,16.27907 48.1105,32.1221 687.8112,-0.23927 1727.6838,-31.86092 h 31.861 l 160.1268,16.03323 h 32.8886"
+       id="path239" />
+  </g>
+</svg>

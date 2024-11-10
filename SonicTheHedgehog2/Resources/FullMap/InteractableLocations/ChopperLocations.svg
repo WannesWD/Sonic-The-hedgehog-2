@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="11264"
+   height="1024"
+   viewBox="0 0 11264 1024"
+   sodipodi:docname="ChopperLocations.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.2162237"
+     inkscape:cx="9284.8876"
+     inkscape:cy="893.33897"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     inkscape:lockguides="false" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="11264"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="SonicTheHedgehog2-EmeraldHillZone-1.png"
+       id="image191"
+       inkscape:transform-center-x="55.951432"
+       inkscape:transform-center-y="-6.5825214"
+       x="0"
+       y="0" />
+    <image
+       width="11264"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="SonicTheHedgehog2-EmeraldHillZone-1.png"
+       id="image10"
+       inkscape:transform-center-x="55.951432"
+       inkscape:transform-center-y="-6.5825214" />
+    <path
+       style="fill:#000000"
+       d="m 1402.3256,718.60465 80.2325,-2.32558"
+       id="path379" />
+    <path
+       style="fill:#000000"
+       d="m 2912.2933,788.50628 130.7325,-0.82221 128.2659,0.82221 128.2659,-0.82221"
+       id="path381" />
+    <path
+       style="fill:#000000"
+       d="m 4730.2155,972.68293 81.3995,-0.82221 661.8848,-289.42045"
+       id="path383" />
+    <path
+       style="fill:#000000"
+       d="m 9531.1416,909.37221 h 81.3995"
+       id="path385" />
+  </g>
+</svg>

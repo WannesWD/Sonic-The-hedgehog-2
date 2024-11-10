@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg12"
+   width="11264"
+   height="1024"
+   viewBox="0 0 11264 1024"
+   sodipodi:docname="StaticFloatingPlatforms.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="9.7227184"
+     inkscape:cx="1084.7275"
+     inkscape:cy="602.24926"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g18">
+    <image
+       width="11264"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="../SonicTheHedgehog2-EmeraldHillZone-1.png"
+       id="image20" />
+    <path
+       style="fill:#000000"
+       d="m 897.27992,578.43905 23.03883,-0.41141 18.10193,6.99393 53.89439,-0.41141 31.26693,-7.81674 107.7888,32.91261 h 18.5134 l 0,1.33707 -18.6421,-0.12392 -107.7771,-33.33572 -31.26646,8.04382 -53.98491,0.22646 -18.09558,-6.93932 -22.83813,0.24459 z"
+       id="path325"
+       sodipodi:nodetypes="ccccccccccccccc" />
+  </g>
+</svg>

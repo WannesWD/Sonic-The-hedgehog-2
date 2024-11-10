@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="11264"
+   height="1024"
+   viewBox="0 0 11264 1024"
+   sodipodi:docname="CheckPointLocations.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15202796"
+     inkscape:cx="4127.5303"
+     inkscape:cy="1881.2329"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     inkscape:lockguides="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="11264"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="SonicTheHedgehog2-EmeraldHillZone-1.png"
+       id="image191"
+       inkscape:transform-center-x="55.951432"
+       inkscape:transform-center-y="-6.5825214"
+       x="0"
+       y="0" />
+    <image
+       width="11264"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="SonicTheHedgehog2-EmeraldHillZone-1.png"
+       id="image10"
+       inkscape:transform-center-x="55.951432"
+       inkscape:transform-center-y="-6.5825214" />
+    <path
+       style="fill:#000000"
+       d="M 3568.0233,165.69767 6335.4651,673.83721 8831.9768,359.88372"
+       id="path225" />
+  </g>
+</svg>

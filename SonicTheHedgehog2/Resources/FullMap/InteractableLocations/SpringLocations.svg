@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="11264"
+   height="1024"
+   viewBox="0 0 11264 1024"
+   sodipodi:docname="SpringLocations.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="9909.3061"
+     inkscape:cy="835.80022"
+     inkscape:window-width="2048"
+     inkscape:window-height="1129"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     inkscape:lockguides="false" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="11264"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="SonicTheHedgehog2-EmeraldHillZone-1.png"
+       id="image191"
+       inkscape:transform-center-x="55.951432"
+       inkscape:transform-center-y="-6.5825214"
+       x="0"
+       y="0" />
+    <image
+       width="11264"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="SonicTheHedgehog2-EmeraldHillZone-1.png"
+       id="image10"
+       inkscape:transform-center-x="55.951432"
+       inkscape:transform-center-y="-6.5825214" />
+    <path
+       style="fill:#000000"
+       d="m 1933.0326,757.26203 286.7482,-195.68769 683.2942,57.8459 925.1682,-185.97071 2011.9655,513.8031 -89.6217,-456.38897 725.1956,226.10973 1083.6837,166.75618 -52.0334,-237.99838 157.3989,-141.79814 -348.8173,160.55951"
+       id="path317"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#000000"
+       d="M 8980.4658,416.0419 10179.46,671.34034 9935.3518,849.35035"
+       id="path319"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>

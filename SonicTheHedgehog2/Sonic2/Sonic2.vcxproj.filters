@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="FrameWrokFiles">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="GameFiles">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="GameFiles\GameObjects">
+      <UniqueIdentifier>{e44ff8ae-f88b-4fa9-8537-f69c17b22247}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\Level">
+      <UniqueIdentifier>{3e781c84-627d-42b1-acc6-756795f233a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\Camera">
+      <UniqueIdentifier>{1f85b52b-665f-4a0e-99a4-35f6053345aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\GameObjects\Player">
+      <UniqueIdentifier>{beb9a886-5acb-4fea-9c08-deeef0c8d02a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\Sprites">
+      <UniqueIdentifier>{c4415c42-2722-49c4-93c5-6671f5b931c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\GameObjects\Interactable">
+      <UniqueIdentifier>{0a1211a9-c116-4ab2-8688-54511a846655}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\GameObjects\Interactable\Rings">
+      <UniqueIdentifier>{760aea0e-a5ef-4ad3-8ced-1cd87790ec1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\GameObjects\Interactable\Enemy">
+      <UniqueIdentifier>{9b0db301-b44a-4ca4-ac23-c8afee7bf1d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\GameObjects\Interactable\Enemy\SpecificEnemys">
+      <UniqueIdentifier>{d29a910d-6027-4732-aa6b-8fba7a0a8ec4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\Level\BridgeSprites">
+      <UniqueIdentifier>{5ed67962-24b4-4349-adad-49c48f2ed9c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\GameObjects\Interactable\CheckPoint">
+      <UniqueIdentifier>{026b1205-bdbb-4d97-9204-ee3d5c3a0550}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\GameObjects\Projectile">
+      <UniqueIdentifier>{5baa7cbb-5cb0-4233-abd0-96bf6668eb3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\GameObjects\Projectile\SpecificProjectiles">
+      <UniqueIdentifier>{319026f8-25a8-4655-9bbd-94f89f6774b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\Level\FloatingPlatforms">
+      <UniqueIdentifier>{ff46d469-82dc-4e4e-9019-9493d73d77b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\GameObjects\Interactable\EndSign">
+      <UniqueIdentifier>{eb2cef7f-f7cb-47af-a740-18f4fe9590b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\Menus">
+      <UniqueIdentifier>{73748600-ccbc-49aa-af53-5f184fc59f10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\GameObjects\Interactable\Spring">
+      <UniqueIdentifier>{85259d19-7bde-4b1c-ad16-e198b6525ba1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFiles\Sound">
+      <UniqueIdentifier>{fc16922a-1970-4d6d-aa3b-fb9202f9b517}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>FrameWrokFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>FrameWrokFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>FrameWrokFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>GameFiles\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>GameFiles\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>GameFiles\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerInput.cpp">
+      <Filter>GameFiles\GameObjects\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerCharacter.cpp">
+      <Filter>GameFiles\GameObjects\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>GameFiles\Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatedSprite.cpp">
+      <Filter>GameFiles\Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="Avatar.cpp">
+      <Filter>GameFiles\Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleSprite.cpp">
+      <Filter>GameFiles\Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerPhysics.cpp">
+      <Filter>GameFiles\GameObjects\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticAnimatedSprite.cpp">
+      <Filter>GameFiles\Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="InteractableManager.cpp">
+      <Filter>GameFiles\GameObjects\Interactable</Filter>
+    </ClCompile>
+    <ClCompile Include="Interactable.cpp">
+      <Filter>GameFiles\GameObjects\Interactable</Filter>
+    </ClCompile>
+    <ClCompile Include="Rings.cpp">
+      <Filter>GameFiles\GameObjects\Interactable\Rings</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>GameFiles\GameObjects\Interactable\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Aiaiai.cpp">
+      <Filter>GameFiles\GameObjects\Interactable\Enemy\SpecificEnemys</Filter>
+    </ClCompile>
+    <ClCompile Include="Chopper.cpp">
+      <Filter>GameFiles\GameObjects\Interactable\Enemy\SpecificEnemys</Filter>
+    </ClCompile>
+    <ClCompile Include="Bridge.cpp">
+      <Filter>GameFiles\Level\BridgeSprites</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckPoint.cpp">
+      <Filter>GameFiles\GameObjects\Interactable\CheckPoint</Filter>
+    </ClCompile>
+    <ClCompile Include="Buzzer.cpp">
+      <Filter>GameFiles\GameObjects\Interactable\Enemy\SpecificEnemys</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>GameFiles\GameObjects\Projectile</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectileManager.cpp">
+      <Filter>GameFiles\GameObjects\Projectile</Filter>
+    </ClCompile>
+    <ClCompile Include="Stinger.cpp">
+      <Filter>GameFiles\GameObjects\Projectile\SpecificProjectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Coconut.cpp">
+      <Filter>GameFiles\GameObjects\Projectile\SpecificProjectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="FloatingPlatform.cpp">
+      <Filter>GameFiles\Level\FloatingPlatforms</Filter>
+    </ClCompile>
+    <ClCompile Include="EndSign.cpp">
+      <Filter>GameFiles\GameObjects\Interactable\EndSign</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD.cpp">
+      <Filter>GameFiles\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="StartMenu.cpp">
+      <Filter>GameFiles\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="Spring.cpp">
+      <Filter>GameFiles\GameObjects\Interactable\Spring</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>GameFiles\Sound</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>FrameWrokFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>FrameWrokFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>GameFiles\GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>GameFiles\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>GameFiles\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerInput.h">
+      <Filter>GameFiles\GameObjects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerCharacter.h">
+      <Filter>GameFiles\GameObjects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>GameFiles\Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleSprite.h">
+      <Filter>GameFiles\Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="Avatar.h">
+      <Filter>GameFiles\Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatedSprite.h">
+      <Filter>GameFiles\Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerPhysics.h">
+      <Filter>GameFiles\GameObjects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticAnimatedSprite.h">
+      <Filter>GameFiles\Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="InteractableManager.h">
+      <Filter>GameFiles\GameObjects\Interactable</Filter>
+    </ClInclude>
+    <ClInclude Include="Interactable.h">
+      <Filter>GameFiles\GameObjects\Interactable</Filter>
+    </ClInclude>
+    <ClInclude Include="Rings.h">
+      <Filter>GameFiles\GameObjects\Interactable\Rings</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>GameFiles\GameObjects\Interactable\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Aiaiai.h">
+      <Filter>GameFiles\GameObjects\Interactable\Enemy\SpecificEnemys</Filter>
+    </ClInclude>
+    <ClInclude Include="Chopper.h">
+      <Filter>GameFiles\GameObjects\Interactable\Enemy\SpecificEnemys</Filter>
+    </ClInclude>
+    <ClInclude Include="Bridge.h">
+      <Filter>GameFiles\Level\BridgeSprites</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckPoint.h">
+      <Filter>GameFiles\GameObjects\Interactable\CheckPoint</Filter>
+    </ClInclude>
+    <ClInclude Include="Buzzer.h">
+      <Filter>GameFiles\GameObjects\Interactable\Enemy\SpecificEnemys</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>GameFiles\GameObjects\Projectile</Filter>
+    </ClInclude>
+    <ClInclude Include="ProjectileManager.h">
+      <Filter>GameFiles\GameObjects\Projectile</Filter>
+    </ClInclude>
+    <ClInclude Include="Stinger.h">
+      <Filter>GameFiles\GameObjects\Projectile\SpecificProjectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Coconut.h">
+      <Filter>GameFiles\GameObjects\Projectile\SpecificProjectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="FloatingPlatform.h">
+      <Filter>GameFiles\Level\FloatingPlatforms</Filter>
+    </ClInclude>
+    <ClInclude Include="EndSign.h">
+      <Filter>GameFiles\GameObjects\Interactable\EndSign</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD.h">
+      <Filter>GameFiles\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="StartMenu.h">
+      <Filter>GameFiles\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="Spring.h">
+      <Filter>GameFiles\GameObjects\Interactable\Spring</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>GameFiles\Sound</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

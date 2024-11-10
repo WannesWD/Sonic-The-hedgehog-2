@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="11264"
+   height="1023"
+   viewBox="0 0 11264 1023"
+   sodipodi:docname="Flower1Locations.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.30383494"
+     inkscape:cx="5030.6919"
+     inkscape:cy="1250.6791"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="79"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="11264"
+       height="1023"
+       preserveAspectRatio="none"
+       xlink:href="../Genesis%2032X%20SCD%20-%20Sonic%20the%20Hedgehog%202%20-%20Emerald%20Hill%20Zone%20Act%201.png"
+       id="image10" />
+    <path
+       style="fill:#000000"
+       d="m 2415.7091,526.83637 3728.2518,159.80289 367.7983,32.08979 1296.5318,-159.96541 478.8977,-0.0721 289.0295,0.0721 1151.9255,255.82338 239.8507,32.08979"
+       id="path228" />
+  </g>
+</svg>

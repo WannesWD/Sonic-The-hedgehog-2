@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="11264"
+   height="1023"
+   viewBox="0 0 11264 1023"
+   sodipodi:docname="Flower2Locations.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.4296875"
+     inkscape:cx="3194.1818"
+     inkscape:cy="793.6"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="79"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="11264"
+       height="1023"
+       preserveAspectRatio="none"
+       xlink:href="flowerlocations.png"
+       id="image10" />
+    <path
+       style="fill:#000000"
+       d="m 2816.2909,590.72728 1727.963,80.17564 480.0355,-0.0514 863.9302,-239.85062 544.4979,255.99837 47.5007,32.09167 L 7936.0364,559 l 336.0364,-0.12727 880,112 192.0727,143.96364 h 543.7272"
+       id="path217" />
+    <path
+       style="fill:#000000"
+       d="m 9936.2182,846.98182 80.0138,-176.02748"
+       id="path219" />
+  </g>
+</svg>

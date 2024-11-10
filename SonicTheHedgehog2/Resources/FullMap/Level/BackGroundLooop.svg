@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="11264"
+   height="1024"
+   viewBox="0 0 11264 1024"
+   sodipodi:docname="SonicBackGroundLooop.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.2153398"
+     inkscape:cx="8929.6014"
+     inkscape:cy="544.70363"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="79"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     inkscape:lockguides="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="11264"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="SonicTheHedgehog2-EmeraldHillZone-1.png"
+       id="image10"
+       x="0.58181816"
+       y="-0.58181816" />
+    <path
+       style="fill:#000000"
+       d="m 8384.4867,1023.3764 0.2057,-59.65412"
+       id="path428" />
+    <path
+       style="fill:#000000"
+       d="m 4096.1795,487.31227 31.6784,0.41141 1.0285,11.10801 4.1141,14.39926 5.7597,13.37075 10.4909,17.48482 14.3993,15.42778 14.3992,11.93082 13.1651,6.99393 27.3586,10.28519 133.5017,55.12862 0.6171,91.53818 h -65.0023 l -191.716,1.02852 z"
+       id="path1797" />
+    <path
+       style="fill:#000000"
+       d="m 6656.1632,616.69996 32.5012,-0.41141 1.2342,17.27912 7.4053,19.74756 13.5765,21.39319 15.6335,16.0449 13.9878,11.93082 38.2609,26.33008 67.4709,11.51942 97.915,48.13468 v 91.33248 l -30.8556,-0.4114 -0.4114,-16.45631 -256.3069,-0.41141 z"
+       id="path259" />
+    <path
+       style="fill:#000000"
+       d="m 7040.0064,743.8249 32.5012,0.4114 1.6457,17.27912 7.4053,19.33616 13.9878,22.62741 18.102,17.27912 27.9757,23.03883 27.5643,13.57645 61.2997,12.75363 99.9721,47.31187 -1.6457,89.68681 h -32.0897 v -16.04485 l -256.307,-0.82282 z"
+       id="path261" />
+    <path
+       style="fill:#000000"
+       d="m 8704.3558,488.5465 h 31.8841 l 3.0855,22.62741 15.2221,30.85557 35.381,33.32401 35.9982,20.57038 46.4891,16.45631 18.9247,0.82281 68.2937,31.67838 0.6171,91.53819 h -63.5625 l -0.6171,-80.22448 -191.5102,-1.85133 z"
+       id="path295" />
+  </g>
+</svg>
